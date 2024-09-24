@@ -14,7 +14,7 @@
         "sylius/sylius": "^1.8"
     },
     "conflict": {
-        "api-platform/core": "^2.6"
+        "api-platform/core": "^2.6 || ^2.7"
     },
     "require-dev": {
         "behat/behat": "^3.6.1",
